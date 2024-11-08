@@ -9,7 +9,7 @@ terraform {
 
 provider "equinix" {
     # Or use METAL_AUTH_TOKEN environment variable
-    auth_token = "rXtiGxpH1HqiRDTRiqSifepBbnXWWYbo" # FILL YOUR AUTH TOKEN HERE
+    auth_token = "check from wquinix potal" # FILL YOUR AUTH TOKEN HERE
 }
 
 module "esxi_on_metal" {
